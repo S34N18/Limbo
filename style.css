@@ -154,11 +154,11 @@ main{
 
 /* User profile styling */
 .user-profile {
-    position: relative;
+    position:fixed;
     display: flex;
     align-items: center;
     gap: 10px;
-    left: 0;
+    left: 70;
     top: 0;
 }
 
